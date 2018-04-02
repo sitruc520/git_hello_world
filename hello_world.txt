@@ -5,4 +5,5 @@ This is a text file.
 curtis (4/1/2018): And I have now edited it.
 curtis (4/1/2018): And I just changed this from my Mac.
 curtis (4/1/2018): And I have now edited it AGAIN.
+curtis (4/1/2018): Another mac change
 
